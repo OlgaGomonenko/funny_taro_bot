@@ -28,7 +28,7 @@
 1. Клонирование репозитория
 ```bash
 git clone https://github.com/OlgaGomonenko/funny_taro_bot.git
-cd tarot-bot
+cd tarot
 ```
 
 2. Установка зависимостей
